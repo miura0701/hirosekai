@@ -365,6 +365,10 @@ span.middot {
 
 .notopborder { border-top: none !important; }
 
+footer{
+color:black;
+}
+
 .nobottomborder { border-bottom: none !important; }
 
 .noradius { -webkit-border-radius: 0 !important; -moz-border-radius: 0 !important; -ms-border-radius: 0 !important; -o-border-radius: 0 !important; border-radius: 0 !important; }
